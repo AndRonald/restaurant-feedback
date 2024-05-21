@@ -23,8 +23,9 @@ body{
     justify-content: space-between;
     padding: 18px 40px;
     box-shadow: 0 0.1rem 0.5rem #ccc;
-    width: 100%;
-    background: #fff;
+    width: 1920px;
+    height: 85px;
+    background: #DBD9CA;
     transition: all 0,5s;
 }
 .navigation .logo{
@@ -45,14 +46,16 @@ body{
     font-size: 17px;
     font-weight: 500;
     transition: all 0.5s;
+    margin-left: 270px;
 }
 .navigation ul li a:hover{
-    color: #d63a25;
+    color: #fffce9;
 }
 .navigation i{
     cursor: pointer;
     font-size: 1.5rem;
-    margin-right: 1px;
+    margin-right: -80px;
+    margin-left: 50px;
 }
 .menu{
     cursor: pointer;
@@ -68,8 +71,23 @@ body{
     transition: all 0.3s;
 }
 
-.navigation input{
-    margin-left: 1px;
+img {
+    position: absolute;
+    height: 60px;
+    width: 80px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    margin-top: 2px;
+    margin-left: -30px;
+}
+
+li1 {
+    margin-left: 600px;
+    margin-top: 15px;
+    color: #1e1c2a;
+    font-size: 17px;
+    font-weight: 500;
+    transition: all 0.5s;
 }
 
 .menu .ba:nth-child(1),
