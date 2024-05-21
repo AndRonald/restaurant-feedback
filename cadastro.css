@@ -12,9 +12,9 @@
     align-items: center;
     justify-content: center;
   }
- 
+  
   .container {
-    background-color: #DBD9CA;
+    background-color: whitesmoke;
     padding: 6px;
     width: 350px;
     height: 450px;
@@ -25,7 +25,6 @@
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 0 20px 0 darkgrey;
-    margin-top: 250px;
   }
   
   form {
@@ -40,7 +39,7 @@
     margin-top: 40px;
     position: relative;
     border-radius: 30px;
-    box-shadow: 0 0 7px 0 black;
+    box-shadow: 0 0 7px 0 blueviolet;
   }
   
   .buttonsForm button {
@@ -49,17 +48,15 @@
     border: none;
     position: relative;
     padding: 10px 29px;
-    color: white;
   }
   
   .btnColor {
     position: absolute;
     width: 108px;
     height: 100%;
-    background: linear-gradient(to right, #DBD9CA, black);
+    background: linear-gradient(to right, #5956e9, #a963f8);
     border-radius: 30px;
     transition: .3s;
-    
   }
   
   input[type="text"], input[type="password"] {
@@ -69,11 +66,10 @@
     padding: 8px 0 8px 35px;
     outline: none;
     width: 100%;
-    background-color: white;
   }
   
   button[type="submit"] {
-    background: black;
+    background: #660fc8;
     color: white;
     border-radius: 30px;
     width: 100%;
@@ -83,7 +79,6 @@
     font-size: 15px;
     margin-top: 40px;
     cursor: pointer;
-    padding-right: 7%;
   }
   
   .divCheck {
@@ -103,45 +98,9 @@
   i {
     position: absolute;
     left: 0;
-    padding-left: 12px;
-    padding-top: 8px;
+    padding: 10px 10px;
   }
-
-  ipl {
-    position: absolute;
-    left: 0;
-    padding-left: 15px;
-    padding-top: 3px;
-  }
-
-  iu {
-    position: absolute;
-    margin-top: -24px;
-    padding-left: 12px;
-  }
-
-  ie {
-    position: absolute;
-    padding-top: 79px;
-    padding-left: 12px;
-  }
-
-  ip {
-    position: absolute;
-    padding-top: 74px;
-    right: 272px;
-    
-  }
-
-  img {
-    position: absolute;
-    height: 248px;
-    width: 360px;
-    margin-top: -450px;
-    border-radius: 30px;
-    border: 2px solid #000;
-  }
-
+  
   .iEmail {
     top: 40px;
   }
