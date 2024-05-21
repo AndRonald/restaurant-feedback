@@ -3,13 +3,14 @@ Feed house is a project developed by UniFecaf students, with the aim of being a 
 I believe everyone has good memories with some food. Our application aims to demonstrate, through restaurant interactions and promotions, the feelings conveyed when tasting great food and being inspired by this, we decided to create this sharing environment
 
 ## Requirements for understand the project/ viability
-# Platforms used: TRELLO AND MIRO
+# Platforms used: TRELLO, MIRO AND WIX
 
   - Risk matrix: https://trello.com/c/hEjh7eVZ/65-matriz-de-risco
   - Burndown chart: https://trello.com/c/FPbzjuEK/66-gr%C3%A1fico-de-burndown
   - Brainstorm: https://miro.com/app/board/uXjVNk8xh9M=/
   - Raci: https://miro.com/app/board/uXjVNh02uFw=/
   - Multifunctional flowchart: https://miro.com/app/board/uXjVKIhL1yU=/
+  - Wix website: https://tiagocirqueira.wixsite.com/feed-house
 
 # Why Platforms and Methodologies?
 The main objective of going deeper into the research is to really understand the project and how to make it relevant to other people, minimizing errors; understanding the workflow; how to avoid bugs and so on.
