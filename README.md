@@ -2,6 +2,12 @@
 Feed house is a project developed by UniFecaf students, with the aim of being a platform where customers can leave feedback about their experiences in restaurants, and restaurants can use this information to improve their services. The platform can include sentiment analysis and feedback trends.
 I believe everyone has good memories with some food. Our application aims to demonstrate, through restaurant interactions and promotions, the feelings conveyed when tasting great food and being inspired by this, we decided to create this sharing environment
 
+
+## Discontinued version
+Due to project problems, we decided to proceed with the wix platform, you can access it here: https://tiagocirqueira.wixsite.com/feed-house
+
+
+
 ## Requirements for understand the project/ viability
 # Platforms used: TRELLO AND MIRO
 
