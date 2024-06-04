@@ -31,22 +31,17 @@ Due to project problems, we decided to proceed with the wix platform, you can ac
   # Multifunctional flowchart:
   <img scr= "https://github.com/AndRonald/restaurant-feedback/assets/134448744/79c5a664-8900-48e3-a12d-a8594baf6f06" widht="300px" /> <br>
   
-</div>
-  
-<div align="center">
-  
   # Wix website:
   
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" widht="300px" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/3ac706ac-e701-4cca-a53f-e0f47130af3c" widht="300px"/> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/b08e96aa-ca29-48c5-9291-7f5b4f12bb52" widht="300px"/> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/115ed90e-480d-4d99-ab0b-2bb26fe404a9" widht="300px"/> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/29c7cb5f-953b-48a6-aa6d-ad45a8b65203" widht="300px"/> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/56ca1506-ef89-48f4-8d27-8a6d6522e8b0" widht="300px"/> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/8e330d60-34d3-481f-bc72-a747ee6ec0ad" widht="300px"/> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/fbe1d22c-4482-41fd-a74a-d4765c07c282" widht="300px"/> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/6a8e3575-cc37-4291-b127-fbf6ae581c10" widht="300px"/> <br>
-
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/3ac706ac-e701-4cca-a53f-e0f47130af3c" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/b08e96aa-ca29-48c5-9291-7f5b4f12bb52" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/115ed90e-480d-4d99-ab0b-2bb26fe404a9" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/29c7cb5f-953b-48a6-aa6d-ad45a8b65203" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/56ca1506-ef89-48f4-8d27-8a6d6522e8b0" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/8e330d60-34d3-481f-bc72-a747ee6ec0ad" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/fbe1d22c-4482-41fd-a74a-d4765c07c282" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/6a8e3575-cc37-4291-b127-fbf6ae581c10" widht="400px"/> 
 </div>
 
 # Why Platforms and Methodologies?
