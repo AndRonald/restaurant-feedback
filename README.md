@@ -3,13 +3,16 @@ Feed house is a project developed by UniFecaf students, with the aim of being a 
 I believe everyone has good memories with some food. Our application aims to demonstrate, through restaurant interactions and promotions, the feelings conveyed when tasting great food and being inspired by this, we decided to create this sharing environment
 
 
+
 ## Discontinued version
 Due to project problems, we decided to proceed with the wix platform, you can access it here: https://tiagocirqueira.wixsite.com/feed-house
 
 
 
+
 ## Requirements for understand the project/ viability
 # Platforms used: TRELLO, MIRO AND WIX
+
 
 <div align="center">
   
@@ -34,15 +37,15 @@ Due to project problems, we decided to proceed with the wix platform, you can ac
   
   # Wix website:
   
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/3ac706ac-e701-4cca-a53f-e0f47130af3c" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/b08e96aa-ca29-48c5-9291-7f5b4f12bb52" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/115ed90e-480d-4d99-ab0b-2bb26fe404a9" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/29c7cb5f-953b-48a6-aa6d-ad45a8b65203" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/56ca1506-ef89-48f4-8d27-8a6d6522e8b0" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/8e330d60-34d3-481f-bc72-a747ee6ec0ad" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/fbe1d22c-4482-41fd-a74a-d4765c07c282" /> <br>
-<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/6a8e3575-cc37-4291-b127-fbf6ae581c10" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" widht="300px" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/3ac706ac-e701-4cca-a53f-e0f47130af3c" widht="300px"/> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/b08e96aa-ca29-48c5-9291-7f5b4f12bb52" widht="300px"/> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/115ed90e-480d-4d99-ab0b-2bb26fe404a9" widht="300px"/> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/29c7cb5f-953b-48a6-aa6d-ad45a8b65203" widht="300px"/> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/56ca1506-ef89-48f4-8d27-8a6d6522e8b0" widht="300px"/> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/8e330d60-34d3-481f-bc72-a747ee6ec0ad" widht="300px"/> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/fbe1d22c-4482-41fd-a74a-d4765c07c282" widht="300px"/> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/6a8e3575-cc37-4291-b127-fbf6ae581c10" widht="300px"/> <br>
 
 </div>
 
