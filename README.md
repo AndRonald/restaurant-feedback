@@ -11,12 +11,40 @@ Due to project problems, we decided to proceed with the wix platform, you can ac
 ## Requirements for understand the project/ viability
 # Platforms used: TRELLO, MIRO AND WIX
 
-  - Risk matrix: https://trello.com/c/hEjh7eVZ/65-matriz-de-risco
-  - Burndown chart: https://trello.com/c/FPbzjuEK/66-gr%C3%A1fico-de-burndown
-  - Brainstorm: https://miro.com/app/board/uXjVNk8xh9M=/
-  - Raci: https://miro.com/app/board/uXjVNh02uFw=/
-  - Multifunctional flowchart: https://miro.com/app/board/uXjVKIhL1yU=/
-  - Wix website: https://tiagocirqueira.wixsite.com/feed-house
+<div align="center">
+  
+  # Risk matrix: 
+  <img src= "https://github.com/AndRonald/restaurant-feedback/assets/134448744/cf7b5ab9-72b5-47d8-901a-d16bf942d7f4" width="300px"/> <br>
+  
+  # Burndown chart:
+  <img src = "https://github.com/AndRonald/restaurant-feedback/assets/134448744/7aa2867b-c4c4-4765-a49d-452ca54ce2e6" width="300px"/> <br>
+  
+  # Brainstorm:
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/45c94b16-ef7e-4c4f-9bba-d3c33ea72fa1"  width="300px" /> <br>
+  
+  # Raci:
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/4ea72088-b2db-4fb4-846e-ca2766741ffc" width="300px"/>
+  
+  # Multifunctional flowchart:
+  <img scr= "https://github.com/AndRonald/restaurant-feedback/assets/134448744/79c5a664-8900-48e3-a12d-a8594baf6f06" widht="300px" /> <br>
+  
+</div>
+  
+<div align="center">
+  
+  # Wix website:
+  
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/3ac706ac-e701-4cca-a53f-e0f47130af3c" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/b08e96aa-ca29-48c5-9291-7f5b4f12bb52" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/115ed90e-480d-4d99-ab0b-2bb26fe404a9" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/29c7cb5f-953b-48a6-aa6d-ad45a8b65203" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/56ca1506-ef89-48f4-8d27-8a6d6522e8b0" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/8e330d60-34d3-481f-bc72-a747ee6ec0ad" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/fbe1d22c-4482-41fd-a74a-d4765c07c282" /> <br>
+<img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/6a8e3575-cc37-4291-b127-fbf6ae581c10" /> <br>
+
+</div>
 
 # Why Platforms and Methodologies?
 The main objective of going deeper into the research is to really understand the project and how to make it relevant to other people, minimizing errors; understanding the workflow; how to avoid bugs and so on.
