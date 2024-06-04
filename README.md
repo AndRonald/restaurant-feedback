@@ -33,7 +33,7 @@ Due to project problems, we decided to proceed with the wix platform, you can ac
   
   # Wix website:
   
-  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" widht="400px"/> <br>
+  <img scr="https://github.com/AndRonald/restaurant-feedback/assets/134448744/f0d6c4a7-7a03-43cb-ae4c-23cd87e0e328" widht="400px"/> <br>
 
 </div>
 
