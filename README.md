@@ -17,31 +17,25 @@ Due to project problems, we decided to proceed with the wix platform, you can ac
 <div align="center">
   
   # Risk matrix: 
-  <img src= "https://github.com/AndRonald/restaurant-feedback/assets/134448744/cf7b5ab9-72b5-47d8-901a-d16bf942d7f4" width="300px"/> <br>
-  
+  <img src= "https://github.com/AndRonald/restaurant-feedback/assets/134448744/cf7b5ab9-72b5-47d8-901a-d16bf942d7f4" width="450px"/> <br><br>
   # Burndown chart:
-  <img src = "https://github.com/AndRonald/restaurant-feedback/assets/134448744/7aa2867b-c4c4-4765-a49d-452ca54ce2e6" width="300px"/> <br>
-  
+  <img src = "https://github.com/AndRonald/restaurant-feedback/assets/134448744/7aa2867b-c4c4-4765-a49d-452ca54ce2e6" width="450px"/><br><br>
   # Brainstorm:
-  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/45c94b16-ef7e-4c4f-9bba-d3c33ea72fa1"  width="300px" /> <br>
-  
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/45c94b16-ef7e-4c4f-9bba-d3c33ea72fa1"  width="450px" /> <br><br>
   # Raci:
-  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/4ea72088-b2db-4fb4-846e-ca2766741ffc" width="300px"/>
-  
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/4ea72088-b2db-4fb4-846e-ca2766741ffc" width="450px"/> <br><br> 
   # Multifunctional flowchart:
-  <img src= "https://github.com/AndRonald/restaurant-feedback/assets/134448744/79c5a664-8900-48e3-a12d-a8594baf6f06" widht="300px" /> <br>
-  
+  <img src= "https://github.com/AndRonald/restaurant-feedback/assets/134448744/79c5a664-8900-48e3-a12d-a8594baf6f06" widht="450px" /> <br><br>
   # Wix website:
-  
-  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" widht="300px" /> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/3ac706ac-e701-4cca-a53f-e0f47130af3c" widht="300px"/> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/b08e96aa-ca29-48c5-9291-7f5b4f12bb52" widht="300px"/> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/115ed90e-480d-4d99-ab0b-2bb26fe404a9" widht="300px"/> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/29c7cb5f-953b-48a6-aa6d-ad45a8b65203" widht="300px"/> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/56ca1506-ef89-48f4-8d27-8a6d6522e8b0" widht="300px"/> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/8e330d60-34d3-481f-bc72-a747ee6ec0ad" widht="300px"/> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/fbe1d22c-4482-41fd-a74a-d4765c07c282" widht="300px"/> <br>
-<img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/6a8e3575-cc37-4291-b127-fbf6ae581c10" widht="300px"/> <br>
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/62973f7c-af71-41da-94a2-1e1dc226afdb" widht="300px"/>  <br>
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/3ac706ac-e701-4cca-a53f-e0f47130af3c" widht="300px"/> <br> 
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/b08e96aa-ca29-48c5-9291-7f5b4f12bb52" widht="300px"/> <br> 
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/115ed90e-480d-4d99-ab0b-2bb26fe404a9" widht="300px"/> <br> 
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/29c7cb5f-953b-48a6-aa6d-ad45a8b65203" widht="300px"/> <br>
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/56ca1506-ef89-48f4-8d27-8a6d6522e8b0" widht="300px"/> <br>
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/8e330d60-34d3-481f-bc72-a747ee6ec0ad" widht="300px"/> <br>
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/fbe1d22c-4482-41fd-a74a-d4765c07c282" widht="300px"/> <br>
+  <img src="https://github.com/AndRonald/restaurant-feedback/assets/134448744/6a8e3575-cc37-4291-b127-fbf6ae581c10" widht="300px"/> <br>
 
 </div>
 
